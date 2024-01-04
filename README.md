@@ -1,1 +1,1 @@
-Building REST API’s using Spring Boot, Spring Security 6, JWT, Spring Data JPA, Hibernate, MySQL, Docker
+Building REST API’s using Spring Boot, Spring Security 6, JWT, Spring Data JPA, Hibernate, MySQL
